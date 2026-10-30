@@ -1,0 +1,12 @@
+{
+  "name": "astral-custom-bot",
+  "version": "2.0.0",
+  "description": "The Official Advanced Multi-Purpose Bot for A S T R A L SMP Discord Server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.0"
+  }
+}
